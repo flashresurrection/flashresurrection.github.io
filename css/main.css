@@ -1,0 +1,36 @@
+.centered {
+    position: fixed; /* or absolute */
+    top: 50%;
+    left: 40%;
+  }
+
+.centered2 {
+    position: fixed; /* or absolute */
+    top: 55%;
+    left: 27%;
+  }
+
+  nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+.a {
+    color: #55595c
+}
