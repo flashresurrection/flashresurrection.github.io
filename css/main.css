@@ -34,3 +34,6 @@
 .a {
     color: #55595c
 }
+a:hover {
+  color: black;
+}
