@@ -1,7 +1,5 @@
 # Flash Ressurection
 
-![Ruffle Logo](https://github.com/ruffle-rs/ruffle/blob/main/assets/ruffle_logo.svg)
-
 This is a project that allows you to run Flash games using Ruffle, an open-source Flash Player emulator. With Ruffle, you can enjoy playing Flash games even after support for Flash has been discontinued by major browsers.
 
 ## Table of Contents
@@ -9,7 +7,6 @@ This is a project that allows you to run Flash games using Ruffle, an open-sourc
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
